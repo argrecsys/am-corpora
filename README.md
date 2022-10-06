@@ -60,6 +60,29 @@ Some statistics and characteristics of the previously listed corpora are present
   <tr><th align="left">URL</th><td><a href="http://corpora.aifdb.org/AAECv2">http://corpora.aifdb.org/AAECv2</a></td></tr>
 </table>
 
+<table>
+  <tr><th align="center" colspan="2">5 - Wikipedia articles</th></tr>
+  <tr><th align="left">Domain</th><td>Various</td></tr>
+  <tr><th align="left">Language</th><td>English</td></tr>
+  <tr><th align="left">Size</th><td>~50,000 sent, 2,683 argument elements, collected in the context of 33 controversial topics</td></tr>
+  <tr><th align="left">Argument model</th><td>AC: claim and its associated supporting evidence<br>In detail: Topic, Context Dependent Claim (CDC), Context Dependent Evidence (CDE)</td></tr>
+  <tr><th align="left">Annotation process</th><td>20 carefully trained in-house labelers<br>Two-stage labeling approach:<br>1. Five labelers worked independently on the same text<br>2. Five labelers independently crosschecked the joint list of the detected candidates<br>Candidates confirmed by at least three labelers were included in the corpus</td></tr>
+  <tr><th align="left">Agreement</th><td>K(claim) = 0.39<br>K(evidence) = 0.4</td></tr>
+  <tr><th align="left">Comments</th><td>A corpus of 2,683 argument elements, collected in the context of 33 predefined controversial topics</td></tr>
+</table>
+
+<table>
+  <tr><th align="center" colspan="2">6 - User-generated Web Discourse</th></tr>
+  <tr><th align="left">Language</th><td>English</td></tr>
+  <tr><th align="left">Size</th><td>340 documents</td></tr>
+  <tr><th align="left">Time</th><td>Each annotator spent 35 hours by annotating in the course of 5 weeks<br>Discussions and consolidation of the gold data took another 6 hours</td></tr>
+  <tr><th align="left">Argument model</th><td>Adaptation of Toulmin’s model<br>AC: claim, premise, backing, rebuttal, and refutation</td></tr>
+  <tr><th align="left">Annotation process</th><td>All docs were annotated by 3 independent annotators. Three phases:<br>1. 50 random comments and forum posts were annotated<br>2. 148 comments and forum posts as well as 41 blog posts<br>3. 96 comments/forum posts, 8 blog posts, and 8 articles for this phase</td></tr>
+  <tr><th align="left">Agreement</th><td>αU = 0.48<br>Joint logos (claim, premise, backing, rebuttal, refutation) for Articles + Blog posts + Comments + Forum posts</td></tr>
+  <tr><th align="left">Comments</th><td>Contains 340 documents about 6 controversial topics in education</td></tr>
+  <tr><th align="left">URL</th><td><a href="https://bit.ly/2vdkHOD">https://bit.ly/2vdkHOD</a></td></tr>
+</table>
+
 ## Authors
 Created on Oct 04, 2022  
 Created by:
