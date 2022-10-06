@@ -10,7 +10,7 @@ A compilation of the most famous/used argument mining corpora in English.
 | 5   | Wikipedia articles | [Aharoni et al., 2014 ](https://aclanthology.org/W14-2109/) |
 | 6   | User-generated Web Discourse<br>Gold standard Toulmin corpus (study 2) | [Habernal & Gurevych, 2017](https://arxiv.org/abs/1601.02403) |
 
-## Corpus details
+## Details of the corpus
 Some statistics and characteristics of the previously listed corpora are presented below.
 
 <table>
@@ -46,6 +46,18 @@ Some statistics and characteristics of the previously listed corpora are present
   <tr><th align="left">Agreement</th><td>K(topic) =  0.22–0.60<br>K(avg) =  0.47v</td></tr>
   <tr><th align="left">Comments</th><td>Corpus for research in political debate on Internet forums. It consists of approximately 11,000 discussions, 390,000 posts, and some 73,000,000 words</td></tr>
   <tr><th align="left">URL</th><td><a href="https://nlds.soe.ucsc.edu/iac">https://nlds.soe.ucsc.edu/iac</a></td></tr>
+</table>
+
+<table>
+  <tr><th align="center" colspan="2">4 - Argument Annotated Essays Corpus (AAEC)</th></tr>
+  <tr><th align="left">Domain</th><td>Persuasive essays (various)</td></tr>
+  <tr><th align="left">Language</th><td>English</td></tr>
+  <tr><th align="left">Size</th><td>90 persuasive essays, 1,673 sentences with 34,917 tokens</td></tr>
+  <tr><th align="left">Argument model</th><td>AC: major claim, claim, and premise<br>AR: support / attack</td></tr>
+  <tr><th align="left">Annotation process</th><td>1. Three scorers for the ACs and RCs<br>2. ACs are consolidated and selected by majority vote<br>3. Same for RCs</td></tr>
+  <tr><th align="left">Agreement</th><td>αU(comp) = 0.72<br>αU(rel) = 0.81</td></tr>
+  <tr><th align="left">Comments</th><td>The corpus consists of 90 English persuasive essays (collected from essay forum). The corpus contains 1,879 sentences. 402 Essays about 8 controversial topics</td></tr>
+  <tr><th align="left">URL</th><td><a href="http://corpora.aifdb.org/AAECv2">http://corpora.aifdb.org/AAECv2</a></td></tr>
 </table>
 
 ## Authors
