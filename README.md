@@ -14,7 +14,7 @@ A compilation of the most famous/used argument mining corpora in English.
 Some statistics and characteristics of the previously listed corpora are presented below.
 
 <table>
-  <tr><th align="center" colspan="2">AraucariaDB</th></tr>
+  <tr><th align="center" colspan="2">1 - AraucariaDB</th></tr>
   <tr><th align="left">Domain</th><td>Newspapers and court cases</td></tr>
   <tr><th align="left">Language</th><td>English</td></tr>
   <tr><th align="left">Size</th><td>Over 700 analyses, and a total of 80,000 words</td></tr>
@@ -22,11 +22,11 @@ Some statistics and characteristics of the previously listed corpora are present
   <tr><th align="left">Annotation process</th><td>1. AML: Argument Markup Language (XML-based tree structure)<br>2. Two annotator (one main analyst and one secondary analyst)</td></tr>
   <tr><th align="left">Agreement</th><td>Unknown</td></tr>
   <tr><th align="left">Comments</th><td>Text gathered from newspaper editorials, parliamentary records, judicial summaries and discussion boards</td></tr>
-  <tr><th align="left">URL</th><td>https://arg-tech.org/index.php/research/araucariadb/</td></tr>
+  <tr><th align="left">URL</th><td><a href="https://arg-tech.org/index.php/research/araucariadb/">https://arg-tech.org/index.php/research/araucariadb/</a></td></tr>
 </table>
 
 <table>
-  <tr><th align="center" colspan="2">European Court of Human Rights (ECHR)</th></tr>
+  <tr><th align="center" colspan="2">2 - European Court of Human Rights (ECHR)</th></tr>
   <tr><th align="left">Domain</th><td>Legal</td></tr>
   <tr><th align="left">Language</th><td>English</td></tr>
   <tr><th align="left">Size</th><td>12,904 sent., 10,133 non arg. and 2,771 arg., 2,355 premises and 416 conclusions</td></tr>
@@ -35,6 +35,17 @@ Some statistics and characteristics of the previously listed corpora are present
   <tr><th align="left">Annotation process</th><td>1. All documents are annotated independently by 2 lawyers<br>2. The annotations were analysed by another legal expert<br>3. Fourth legal expert who annotated again the documents</td></tr>
   <tr><th align="left">Agreement</th><td>K = 0.58, K = 0.80</td></tr>
   <tr><th align="left">Comments</th><td>55 documents composed of 25 legal cases and 29 admissibility reports</td></tr>
+</table>
+
+<table>
+  <tr><th align="center" colspan="2">3 - Internet Argument corpus (IAC)</th></tr>
+  <tr><th align="left">Domain</th><td>Political</td></tr>
+  <tr><th align="left">Language</th><td>English</td></tr>
+  <tr><th align="left">Size</th><td>Set of 390,704 posts in 11,800 discussions (from debate site 4forums.com)</td></tr>
+  <tr><th align="left">Annotation process</th><td>1. With Amazon’s Mechanical Turk: Complex process, with several stages, and several Turkers<br>2. Data stored in JSON files with most annotations in CSV format</td></tr>
+  <tr><th align="left">Agreement</th><td>K(topic) =  0.22–0.60<br>K(avg) =  0.47v</td></tr>
+  <tr><th align="left">Comments</th><td>Corpus for research in political debate on Internet forums. It consists of approximately 11,000 discussions, 390,000 posts, and some 73,000,000 words</td></tr>
+  <tr><th align="left">URL</th><td><a href="https://nlds.soe.ucsc.edu/iac">https://nlds.soe.ucsc.edu/iac</a></td></tr>
 </table>
 
 ## Authors
