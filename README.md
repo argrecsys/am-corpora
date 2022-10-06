@@ -14,15 +14,27 @@ A compilation of the most famous/used argument mining corpora in English.
 Some statistics and characteristics of the previously listed corpora are presented below.
 
 <table>
-  <tr><th colspan="2">AraucariaDB</th></tr>
+  <tr><th align="center" colspan="2">AraucariaDB</th></tr>
   <tr><th align="left">Domain</th><td>Newspapers and court cases</td></tr>
   <tr><th align="left">Language</th><td>English</td></tr>
   <tr><th align="left">Size</th><td>Over 700 analyses, and a total of 80,000 words</td></tr>
-  <tr><th align="left">Argument<br>Comp & Rel.</th><td>Walton’s schemes</td></tr>
-  <tr><th align="left">Annotation Type</th><td>1. AML: Argument Markup Language (XML-based tree structure)<br>2. Two annotator (one main analyst and one secondary analyst)</td></tr>
-  <tr><th align="left">Agreement</th><td>unknown</td></tr>
-  <tr><th align="left">Comments</th><td>Text gathered from newspaper editorials, parliamentary records, judicial summaries and discussion boards.</td></tr>
+  <tr><th align="left">Argument model</th><td>Walton’s schemes</td></tr>
+  <tr><th align="left">Annotation process</th><td>1. AML: Argument Markup Language (XML-based tree structure)<br>2. Two annotator (one main analyst and one secondary analyst)</td></tr>
+  <tr><th align="left">Agreement</th><td>Unknown</td></tr>
+  <tr><th align="left">Comments</th><td>Text gathered from newspaper editorials, parliamentary records, judicial summaries and discussion boards</td></tr>
   <tr><th align="left">URL</th><td>https://arg-tech.org/index.php/research/araucariadb/</td></tr>
+</table>
+
+<table>
+  <tr><th align="center" colspan="2">European Court of Human Rights (ECHR)</th></tr>
+  <tr><th align="left">Domain</th><td>Legal</td></tr>
+  <tr><th align="left">Language</th><td>English</td></tr>
+  <tr><th align="left">Size</th><td>12,904 sent., 10,133 non arg. and 2,771 arg., 2,355 premises and 416 conclusions</td></tr>
+  <tr><th align="left">Time</th><td>4 weeks - docs analyzed by 2 lawyers </td></tr>
+  <tr><th align="left">Argument model</th><td>Argumentation schemes<br>AC: conclusion, and premise<br>AR: support / attack</td></tr>
+  <tr><th align="left">Annotation process</th><td>1. All documents are annotated independently by 2 lawyers<br>2. The annotations were analysed by another legal expert<br>3. Fourth legal expert who annotated again the documents</td></tr>
+  <tr><th align="left">Agreement</th><td>K = 0.58, K = 0.80</td></tr>
+  <tr><th align="left">Comments</th><td>55 documents composed of 25 legal cases and 29 admissibility reports</td></tr>
 </table>
 
 ## Authors
